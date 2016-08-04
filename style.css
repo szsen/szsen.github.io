@@ -3,3 +3,12 @@ body {
 	max-width: 50em;
 	font-family: "Verdana", sans-serif;
 }
+
+.project {
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   max-width: 300px;
+   height: 300px;
+   border: 1px solid black;
+}
